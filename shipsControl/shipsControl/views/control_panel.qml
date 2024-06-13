@@ -23,7 +23,7 @@ Rectangle {
         }
 
         Row {
-            Text { text: "Otomatik Pilot" }
+            Text { text: "Autopilot" }
             Switch { id: autopilotSwitch }
         }
     }
